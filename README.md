@@ -49,6 +49,7 @@ When you press `<CR>` on a selected file, it will copy its relative path to the 
 
 ## Prerequisites
 * [Chafa](https://hpjansson.org/chafa/) (required for image support)
+* A modern version of bash. This is likely only an issue on macOS.
 * [ImageMagick](https://imagemagick.org/index.php) (optional, for svg previews)
 * [fd](https://github.com/sharkdp/fd) / [rg](https://github.com/BurntSushi/ripgrep) / [find](https://man7.org/linux/man-pages/man1/find.1.html) or fdfind in Ubuntu/Debian.
 * [ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) (optional, for video preview support)
